@@ -50,8 +50,6 @@ export function ContactForm({initialData, onSubmit, onCancel}: ContactFormProps)
                 )}
             </form.Field>
 
-            {/* Add similar fields for username, email, phone */}
-
             <div className="flex justify-end space-x-2">
                 <button
                     type="button"
